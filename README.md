@@ -6,6 +6,6 @@ The server needs a running `MongoDB` instance
 
 1. Clone the repo
 1. run `npm install`
-1. run `run npm dev`
+1. run `npm run dev`
 
 This will start on port 8080.
